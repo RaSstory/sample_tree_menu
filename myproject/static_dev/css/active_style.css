@@ -1,0 +1,12 @@
+li a {
+    display: block;
+    padding: 5px 10px;
+}
+
+a.active {
+    background-color: blue;
+    color: white;
+    padding: 5px 10px;
+    display: inline-block;
+}
+
